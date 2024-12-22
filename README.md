@@ -17,7 +17,7 @@ A simple and interactive Tic-Tac-Toe game built using **HTML**, **CSS**, and **J
 ## Demo 📸
 
 ### Gameplay:
-![Tic-Tac-Toe Demo](https://via.placeholder.com/600x400?text=Demo+Image)
+![Tic-Tac-Toe Demo](https://ibb.co/HBHJqL0)
 
 ---
 
