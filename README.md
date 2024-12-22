@@ -17,13 +17,10 @@ A simple and interactive Tic-Tac-Toe game built using **HTML**, **CSS**, and **J
 ## Demo 📸
 
 ### Gameplay:
-![Tic-Tac-Toe Demo](https://ibb.co/HBHJqL0)
+
+![Screenshot 2024-12-20 134414](https://github.com/user-attachments/assets/65e9d420-9662-41d3-b8a5-b33148c20b57)
 
 ---
 
-## Installation and Setup ⚙️
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/tic-tac-toe.git
-   cd tic-tac-toe
+
